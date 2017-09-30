@@ -14,7 +14,7 @@
     "Javamail"
   ],
   "author": "Nguyen Hong The",
-  "license": "MIT",
+  "license": "LGPL-2.1",
   "bugs": {
     "url": "https://github.com/nguyenhongthe/Java_SendEmail_NetBeans/issues"
   },
